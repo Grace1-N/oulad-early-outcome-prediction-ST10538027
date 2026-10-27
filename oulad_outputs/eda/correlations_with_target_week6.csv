@@ -1,0 +1,14 @@
+feature,correlation_with_target
+avg_CMA_score,0.45634368072596
+assessment_submission_rate,0.37768162832348545
+submitted_assessment_count,0.3216010904275608
+scored_assessment_count,0.3151292035833025
+assessment_record_count,0.31355878011643595
+assessment_score_mean,0.28121903907495194
+avg_TMA_score,0.2541320305304585
+active_days,0.13995189578608516
+studied_credits,-0.13863023692020554
+interaction_records,0.1275377089749571
+unique_learning_sites,0.11672304603274138
+num_of_prev_attempts,-0.10545958980653831
+total_clicks,0.1049632334481293

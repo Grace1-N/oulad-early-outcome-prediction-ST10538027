@@ -1,0 +1,4 @@
+window,rows,columns,successful_outcome_percent,adverse_outcome_percent,mean_total_clicks,students_with_clicks,missing_mean_assessment_scores
+Week 2,32593,40,47.2,52.8,21.03,3927,31405
+Week 4,32593,42,47.2,52.8,32.36,4066,11521
+Week 6,32593,42,47.2,52.8,41.32,4099,9094

@@ -1,0 +1,14 @@
+feature,lower_bound,upper_bound,potential_outlier_count,potential_outlier_percent
+num_of_prev_attempts,0.0,0.0,4172,12.8
+total_clicks,0.0,0.0,4099,12.58
+active_days,0.0,0.0,4099,12.58
+unique_learning_sites,0.0,0.0,4099,12.58
+interaction_records,0.0,0.0,4099,12.58
+assessment_score_mean,33.0,121.0,1226,5.22
+avg_TMA_score,35.5,119.5,1090,4.86
+studied_credits,-30.0,210.0,350,1.07
+assessment_record_count,-1.5,2.5,0,0.0
+scored_assessment_count,-1.5,2.5,0,0.0
+submitted_assessment_count,-1.5,2.5,0,0.0
+assessment_submission_rate,-1.5,2.5,0,0.0
+avg_CMA_score,-1.0,143.0,0,0.0

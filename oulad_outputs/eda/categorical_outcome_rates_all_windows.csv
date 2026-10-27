@@ -1,0 +1,109 @@
+window,variable,category,count,successful_outcome_percent
+Week 2,gender,F,14718,48.44
+Week 2,gender,M,17875,46.19
+Week 2,region,East Anglian Region,3340,48.98
+Week 2,region,East Midlands Region,2365,45.71
+Week 2,region,Ireland,1184,54.9
+Week 2,region,London Region,3216,42.35
+Week 2,region,North Region,1823,50.52
+Week 2,region,North Western Region,2906,40.19
+Week 2,region,Scotland,3446,48.96
+Week 2,region,South East Region,2111,51.49
+Week 2,region,South Region,3092,52.39
+Week 2,region,South West Region,2436,49.79
+Week 2,region,Wales,2086,45.16
+Week 2,region,West Midlands Region,2582,43.3
+Week 2,region,Yorkshire Region,2006,44.87
+Week 2,highest_education,A Level or Equivalent,14045,52.03
+Week 2,highest_education,HE Qualification,4730,56.17
+Week 2,highest_education,Lower Than A Level,13158,38.85
+Week 2,highest_education,No Formal quals,347,29.68
+Week 2,highest_education,Post Graduate Qualification,313,65.5
+Week 2,imd_band,0-10%,3311,35.16
+Week 2,imd_band,20-30%,3654,40.75
+Week 2,imd_band,20-Oct,3516,38.62
+Week 2,imd_band,30-40%,3539,46.91
+Week 2,imd_band,40-50%,3256,46.59
+Week 2,imd_band,50-60%,3124,48.78
+Week 2,imd_band,60-70%,2905,51.91
+Week 2,imd_band,70-80%,2879,51.51
+Week 2,imd_band,80-90%,2762,54.06
+Week 2,imd_band,90-100%,2536,57.53
+Week 2,imd_band,Unknown,1111,65.71
+Week 2,age_band,0-35,22944,45.03
+Week 2,age_band,35-55,9433,52.16
+Week 2,age_band,55<=,216,61.57
+Week 2,disability,N,29429,48.18
+Week 2,disability,Y,3164,38.15
+Week 4,gender,F,14718,48.44
+Week 4,gender,M,17875,46.19
+Week 4,region,East Anglian Region,3340,48.98
+Week 4,region,East Midlands Region,2365,45.71
+Week 4,region,Ireland,1184,54.9
+Week 4,region,London Region,3216,42.35
+Week 4,region,North Region,1823,50.52
+Week 4,region,North Western Region,2906,40.19
+Week 4,region,Scotland,3446,48.96
+Week 4,region,South East Region,2111,51.49
+Week 4,region,South Region,3092,52.39
+Week 4,region,South West Region,2436,49.79
+Week 4,region,Wales,2086,45.16
+Week 4,region,West Midlands Region,2582,43.3
+Week 4,region,Yorkshire Region,2006,44.87
+Week 4,highest_education,A Level or Equivalent,14045,52.03
+Week 4,highest_education,HE Qualification,4730,56.17
+Week 4,highest_education,Lower Than A Level,13158,38.85
+Week 4,highest_education,No Formal quals,347,29.68
+Week 4,highest_education,Post Graduate Qualification,313,65.5
+Week 4,imd_band,0-10%,3311,35.16
+Week 4,imd_band,20-30%,3654,40.75
+Week 4,imd_band,20-Oct,3516,38.62
+Week 4,imd_band,30-40%,3539,46.91
+Week 4,imd_band,40-50%,3256,46.59
+Week 4,imd_band,50-60%,3124,48.78
+Week 4,imd_band,60-70%,2905,51.91
+Week 4,imd_band,70-80%,2879,51.51
+Week 4,imd_band,80-90%,2762,54.06
+Week 4,imd_band,90-100%,2536,57.53
+Week 4,imd_band,Unknown,1111,65.71
+Week 4,age_band,0-35,22944,45.03
+Week 4,age_band,35-55,9433,52.16
+Week 4,age_band,55<=,216,61.57
+Week 4,disability,N,29429,48.18
+Week 4,disability,Y,3164,38.15
+Week 6,gender,F,14718,48.44
+Week 6,gender,M,17875,46.19
+Week 6,region,East Anglian Region,3340,48.98
+Week 6,region,East Midlands Region,2365,45.71
+Week 6,region,Ireland,1184,54.9
+Week 6,region,London Region,3216,42.35
+Week 6,region,North Region,1823,50.52
+Week 6,region,North Western Region,2906,40.19
+Week 6,region,Scotland,3446,48.96
+Week 6,region,South East Region,2111,51.49
+Week 6,region,South Region,3092,52.39
+Week 6,region,South West Region,2436,49.79
+Week 6,region,Wales,2086,45.16
+Week 6,region,West Midlands Region,2582,43.3
+Week 6,region,Yorkshire Region,2006,44.87
+Week 6,highest_education,A Level or Equivalent,14045,52.03
+Week 6,highest_education,HE Qualification,4730,56.17
+Week 6,highest_education,Lower Than A Level,13158,38.85
+Week 6,highest_education,No Formal quals,347,29.68
+Week 6,highest_education,Post Graduate Qualification,313,65.5
+Week 6,imd_band,0-10%,3311,35.16
+Week 6,imd_band,20-30%,3654,40.75
+Week 6,imd_band,20-Oct,3516,38.62
+Week 6,imd_band,30-40%,3539,46.91
+Week 6,imd_band,40-50%,3256,46.59
+Week 6,imd_band,50-60%,3124,48.78
+Week 6,imd_band,60-70%,2905,51.91
+Week 6,imd_band,70-80%,2879,51.51
+Week 6,imd_band,80-90%,2762,54.06
+Week 6,imd_band,90-100%,2536,57.53
+Week 6,imd_band,Unknown,1111,65.71
+Week 6,age_band,0-35,22944,45.03
+Week 6,age_band,35-55,9433,52.16
+Week 6,age_band,55<=,216,61.57
+Week 6,disability,N,29429,48.18
+Week 6,disability,Y,3164,38.15

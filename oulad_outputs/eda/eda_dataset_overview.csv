@@ -1,0 +1,4 @@
+window,rows,columns,missing_cells,successful_count,adverse_count,successful_percent,adverse_percent
+Week 2,32593,40,62855,15385,17208,47.2,52.8
+Week 4,32593,42,54738,15385,17208,47.2,52.8
+Week 6,32593,42,47647,15385,17208,47.2,52.8

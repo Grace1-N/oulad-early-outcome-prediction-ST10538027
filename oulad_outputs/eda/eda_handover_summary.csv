@@ -1,0 +1,2 @@
+week_2_rows,week_4_rows,week_6_rows,week_6_successful_percent,week_6_adverse_percent,numeric_features_reviewed,categorical_features_reviewed,high_correlation_pair_count
+32593,32593,32593,47.2,52.8,"total_clicks, active_days, unique_learning_sites, interaction_records, assessment_record_count, scored_assessment_count, submitted_assessment_count, assessment_submission_rate, assessment_score_mean, avg_TMA_score, avg_CMA_score, num_of_prev_attempts, studied_credits","gender, region, highest_education, imd_band, age_band, disability",37

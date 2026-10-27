@@ -1,0 +1,7 @@
+table,key,unique_keys,rows_with_repeated_key
+assessments,id_assessment,206,0
+studentAssessment,"id_assessment, id_student",173912,0
+studentInfo,"id_student, code_module, code_presentation",32593,0
+studentRegistration,"id_student, code_module, code_presentation",32593,0
+vle,id_site,6364,0
+studentVle,"id_student, id_site, date",773216,485722

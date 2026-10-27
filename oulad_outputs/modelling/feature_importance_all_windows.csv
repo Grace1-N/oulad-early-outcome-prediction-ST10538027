@@ -1,0 +1,463 @@
+window,model,feature,importance
+Week 2,Logistic Regression,numeric__scored_assessment_count,0.8247752469656232
+Week 2,Logistic Regression,numeric__avg_TMA_score,0.6105303570316392
+Week 2,Logistic Regression,numeric__assessment_record_count,0.5621433781763406
+Week 2,Logistic Regression,numeric__assessment_submission_rate,0.4924505986762406
+Week 2,Logistic Regression,numeric__missingindicator_assessment_score_mean,0.4138486066549391
+Week 2,Logistic Regression,categorical__age_band_35-55,0.40371471253849084
+Week 2,Logistic Regression,categorical__gender_F,0.38851230875047205
+Week 2,Logistic Regression,numeric__num_of_prev_attempts,0.38707236389074445
+Week 2,Logistic Regression,categorical__imd_band_20-Oct,0.3486543624198019
+Week 2,Logistic Regression,categorical__imd_band_0-10%,0.30572560713552577
+Week 2,Logistic Regression,numeric__active_days,0.2501222680571535
+Week 2,Logistic Regression,numeric__unique_learning_sites,0.2355962544991971
+Week 2,Logistic Regression,categorical__highest_education_Post Graduate Qualification,0.23498320639407733
+Week 2,Logistic Regression,categorical__imd_band_40-50%,0.2340293598005428
+Week 2,Logistic Regression,categorical__age_band_0-35,0.23241374979358972
+Week 2,Logistic Regression,categorical__imd_band_30-40%,0.22412589983316977
+Week 2,Logistic Regression,categorical__region_East Midlands Region,0.22038893922149236
+Week 2,Logistic Regression,categorical__region_Yorkshire Region,0.22009549834052952
+Week 2,Logistic Regression,categorical__region_South Region,0.21885921104542136
+Week 2,Logistic Regression,categorical__region_East Anglian Region,0.2156107514148971
+Week 2,Logistic Regression,numeric__assessment_score_mean,0.21532936326761398
+Week 2,Logistic Regression,numeric__submitted_assessment_count,0.196973955041946
+Week 2,Logistic Regression,categorical__imd_band_20-30%,0.19409492746097523
+Week 2,Logistic Regression,categorical__highest_education_No Formal quals,0.18602028950208202
+Week 2,Logistic Regression,categorical__region_South West Region,0.18436036517360652
+Week 2,Logistic Regression,numeric__interaction_records,0.1786439428135359
+Week 2,Logistic Regression,categorical__region_North Region,0.17142286116135386
+Week 2,Logistic Regression,categorical__gender_M,0.169665122325086
+Week 2,Logistic Regression,numeric__studied_credits,0.16510158311241444
+Week 2,Logistic Regression,categorical__highest_education_Lower Than A Level,0.1558154087599353
+Week 2,Logistic Regression,categorical__age_band_55<=,0.1551482472616091
+Week 2,Logistic Regression,categorical__imd_band_Unknown,0.15368952542185965
+Week 2,Logistic Regression,categorical__region_West Midlands Region,0.15312056372025748
+Week 2,Logistic Regression,categorical__region_Wales,0.13449957843356117
+Week 2,Logistic Regression,categorical__region_Ireland,0.10549348884484104
+Week 2,Logistic Regression,numeric__missingindicator_avg_TMA_score,0.09990610723113386
+Week 2,Logistic Regression,numeric__total_clicks,0.09721232619100376
+Week 2,Logistic Regression,categorical__disability_Y,0.09447630586965564
+Week 2,Logistic Regression,categorical__imd_band_80-90%,0.0920567093573257
+Week 2,Logistic Regression,categorical__imd_band_60-70%,0.08832669140765563
+Week 2,Logistic Regression,categorical__region_South East Region,0.05669360811989062
+Week 2,Logistic Regression,categorical__disability_N,0.05589375358535119
+Week 2,Logistic Regression,categorical__imd_band_90-100%,0.04844879092267666
+Week 2,Logistic Regression,categorical__highest_education_HE Qualification,0.04832405864374345
+Week 2,Logistic Regression,categorical__imd_band_70-80%,0.027227235715492026
+Week 2,Logistic Regression,categorical__region_Scotland,0.02303641847994852
+Week 2,Logistic Regression,categorical__region_London Region,0.017175628992363363
+Week 2,Logistic Regression,categorical__imd_band_50-60%,0.012738126663887541
+Week 2,Logistic Regression,categorical__region_North Western Region,0.005667415161694235
+Week 2,Logistic Regression,categorical__highest_education_A Level or Equivalent,0.0019503037339606054
+Week 2,Random Forest,numeric__assessment_score_mean,0.13519600236617374
+Week 2,Random Forest,numeric__missingindicator_assessment_score_mean,0.1188533799264961
+Week 2,Random Forest,numeric__avg_TMA_score,0.11651649131663888
+Week 2,Random Forest,categorical__gender_F,0.049785102763027715
+Week 2,Random Forest,numeric__submitted_assessment_count,0.04818619603559447
+Week 2,Random Forest,numeric__scored_assessment_count,0.03403574092760152
+Week 2,Random Forest,numeric__assessment_submission_rate,0.0315173102993081
+Week 2,Random Forest,numeric__assessment_record_count,0.029413911867670842
+Week 2,Random Forest,numeric__missingindicator_avg_TMA_score,0.027602788415345435
+Week 2,Random Forest,numeric__num_of_prev_attempts,0.025190357971271293
+Week 2,Random Forest,numeric__total_clicks,0.017756714675879078
+Week 2,Random Forest,numeric__active_days,0.017053658505296287
+Week 2,Random Forest,numeric__studied_credits,0.016952634029514187
+Week 2,Random Forest,numeric__interaction_records,0.016558550231694048
+Week 2,Random Forest,categorical__highest_education_Post Graduate Qualification,0.01627688600892145
+Week 2,Random Forest,categorical__region_East Midlands Region,0.015374903333924638
+Week 2,Random Forest,categorical__region_East Anglian Region,0.015173852305010843
+Week 2,Random Forest,numeric__unique_learning_sites,0.01402031796513224
+Week 2,Random Forest,categorical__disability_N,0.011528354848594482
+Week 2,Random Forest,categorical__age_band_55<=,0.011196879993816442
+Week 2,Random Forest,categorical__highest_education_Lower Than A Level,0.010555486579714524
+Week 2,Random Forest,categorical__region_South Region,0.009903417067483199
+Week 2,Random Forest,categorical__imd_band_30-40%,0.009458175152102864
+Week 2,Random Forest,categorical__imd_band_40-50%,0.00945528759909284
+Week 2,Random Forest,categorical__imd_band_20-Oct,0.009444482553825236
+Week 2,Random Forest,categorical__imd_band_50-60%,0.009372524214312518
+Week 2,Random Forest,categorical__region_Ireland,0.009300620095350109
+Week 2,Random Forest,categorical__imd_band_60-70%,0.009030302405988037
+Week 2,Random Forest,categorical__region_North Western Region,0.008945813245278328
+Week 2,Random Forest,categorical__imd_band_80-90%,0.008749013435001169
+Week 2,Random Forest,categorical__imd_band_70-80%,0.008593777970797547
+Week 2,Random Forest,categorical__imd_band_90-100%,0.00836464246944795
+Week 2,Random Forest,categorical__region_Wales,0.00830401191355589
+Week 2,Random Forest,categorical__region_South East Region,0.008260454347961688
+Week 2,Random Forest,categorical__highest_education_A Level or Equivalent,0.008141974597719344
+Week 2,Random Forest,categorical__imd_band_Unknown,0.008133804479315075
+Week 2,Random Forest,categorical__region_West Midlands Region,0.00797270528866672
+Week 2,Random Forest,categorical__highest_education_No Formal quals,0.007894410316619953
+Week 2,Random Forest,categorical__age_band_0-35,0.007448866459740932
+Week 2,Random Forest,categorical__region_London Region,0.007425963534974011
+Week 2,Random Forest,categorical__region_Yorkshire Region,0.007338266949025928
+Week 2,Random Forest,categorical__region_South West Region,0.007149168639297382
+Week 2,Random Forest,categorical__highest_education_HE Qualification,0.006829534927264381
+Week 2,Random Forest,categorical__region_Scotland,0.005517355621171815
+Week 2,Random Forest,categorical__gender_M,0.005511973081098904
+Week 2,Random Forest,categorical__region_North Region,0.004843697976070048
+Week 2,Random Forest,categorical__age_band_35-55,0.004225039347092623
+Week 2,Random Forest,categorical__imd_band_0-10%,0.0014882110731677333
+Week 2,Random Forest,categorical__imd_band_20-30%,0.0010691037607293515
+Week 2,Random Forest,categorical__disability_Y,0.0005778017067804191
+Week 2,XGBoost,categorical__gender_F,0.39521682262420654
+Week 2,XGBoost,numeric__assessment_submission_rate,0.17579828202724457
+Week 2,XGBoost,numeric__missingindicator_assessment_score_mean,0.051528219133615494
+Week 2,XGBoost,numeric__submitted_assessment_count,0.043007802218198776
+Week 2,XGBoost,numeric__assessment_score_mean,0.030524438247084618
+Week 2,XGBoost,numeric__avg_TMA_score,0.019533595070242882
+Week 2,XGBoost,categorical__highest_education_Post Graduate Qualification,0.018833668902516365
+Week 2,XGBoost,numeric__scored_assessment_count,0.017369819805026054
+Week 2,XGBoost,numeric__num_of_prev_attempts,0.013810708187520504
+Week 2,XGBoost,numeric__missingindicator_avg_TMA_score,0.012301955372095108
+Week 2,XGBoost,categorical__region_East Midlands Region,0.012032261118292809
+Week 2,XGBoost,numeric__studied_credits,0.01161168608814478
+Week 2,XGBoost,categorical__region_East Anglian Region,0.01025474350899458
+Week 2,XGBoost,categorical__imd_band_20-Oct,0.009986859746277332
+Week 2,XGBoost,numeric__active_days,0.008562490344047546
+Week 2,XGBoost,numeric__total_clicks,0.008407775312662125
+Week 2,XGBoost,categorical__age_band_35-55,0.008294478990137577
+Week 2,XGBoost,numeric__assessment_record_count,0.007848038338124752
+Week 2,XGBoost,categorical__imd_band_40-50%,0.006953474599868059
+Week 2,XGBoost,numeric__interaction_records,0.006779621355235577
+Week 2,XGBoost,categorical__age_band_0-35,0.006108853500336409
+Week 2,XGBoost,categorical__gender_M,0.005788663402199745
+Week 2,XGBoost,categorical__imd_band_30-40%,0.005675114691257477
+Week 2,XGBoost,categorical__disability_N,0.0055614798329770565
+Week 2,XGBoost,categorical__region_South East Region,0.005367129109799862
+Week 2,XGBoost,categorical__region_South Region,0.005204159300774336
+Week 2,XGBoost,categorical__region_West Midlands Region,0.004635570105165243
+Week 2,XGBoost,categorical__age_band_55<=,0.004635513294488192
+Week 2,XGBoost,categorical__region_Yorkshire Region,0.004384629428386688
+Week 2,XGBoost,categorical__imd_band_Unknown,0.0042633782140910625
+Week 2,XGBoost,numeric__unique_learning_sites,0.0042001111432909966
+Week 2,XGBoost,categorical__imd_band_0-10%,0.004035398829728365
+Week 2,XGBoost,categorical__region_Wales,0.0039437455125153065
+Week 2,XGBoost,categorical__region_Scotland,0.0038232954684644938
+Week 2,XGBoost,categorical__region_Ireland,0.003780885599553585
+Week 2,XGBoost,categorical__region_North Western Region,0.0037701865658164024
+Week 2,XGBoost,categorical__imd_band_90-100%,0.00369329284876585
+Week 2,XGBoost,categorical__highest_education_No Formal quals,0.003652358427643776
+Week 2,XGBoost,categorical__region_North Region,0.0035329849924892187
+Week 2,XGBoost,categorical__region_South West Region,0.0035253320820629597
+Week 2,XGBoost,categorical__imd_band_70-80%,0.0033600677270442247
+Week 2,XGBoost,categorical__highest_education_Lower Than A Level,0.0033238676842302084
+Week 2,XGBoost,categorical__imd_band_80-90%,0.0032286171335726976
+Week 2,XGBoost,categorical__imd_band_50-60%,0.003182898508384824
+Week 2,XGBoost,categorical__highest_education_A Level or Equivalent,0.003166457172483206
+Week 2,XGBoost,categorical__imd_band_60-70%,0.003142076777294278
+Week 2,XGBoost,categorical__region_London Region,0.0030311583541333675
+Week 2,XGBoost,categorical__highest_education_HE Qualification,0.0029611459467560053
+Week 2,XGBoost,categorical__imd_band_20-30%,0.002834007376804948
+Week 2,XGBoost,categorical__disability_Y,0.002321313600987196
+Week 4,Logistic Regression,numeric__scored_assessment_count,0.8247752469656232
+Week 4,Logistic Regression,numeric__avg_TMA_score,0.6105303570316392
+Week 4,Logistic Regression,numeric__assessment_record_count,0.5621433781763406
+Week 4,Logistic Regression,numeric__assessment_submission_rate,0.4924505986762406
+Week 4,Logistic Regression,numeric__studied_credits,0.4138486066549391
+Week 4,Logistic Regression,categorical__imd_band_Unknown,0.40371471253849084
+Week 4,Logistic Regression,numeric__missingindicator_avg_TMA_score,0.38851230875047205
+Week 4,Logistic Regression,numeric__avg_CMA_score,0.38707236389074445
+Week 4,Logistic Regression,categorical__imd_band_0-10%,0.3486543624198019
+Week 4,Logistic Regression,categorical__highest_education_No Formal quals,0.30572560713552577
+Week 4,Logistic Regression,numeric__active_days,0.2501222680571535
+Week 4,Logistic Regression,numeric__unique_learning_sites,0.2355962544991971
+Week 4,Logistic Regression,categorical__highest_education_Lower Than A Level,0.23498320639407733
+Week 4,Logistic Regression,categorical__imd_band_20-Oct,0.2340293598005428
+Week 4,Logistic Regression,categorical__imd_band_90-100%,0.23241374979358972
+Week 4,Logistic Regression,categorical__imd_band_20-30%,0.22412589983316977
+Week 4,Logistic Regression,categorical__gender_M,0.22038893922149236
+Week 4,Logistic Regression,categorical__region_Wales,0.22009549834052952
+Week 4,Logistic Regression,categorical__region_Scotland,0.21885921104542136
+Week 4,Logistic Regression,categorical__gender_F,0.2156107514148971
+Week 4,Logistic Regression,numeric__assessment_score_mean,0.21532936326761398
+Week 4,Logistic Regression,numeric__submitted_assessment_count,0.196973955041946
+Week 4,Logistic Regression,categorical__highest_education_Post Graduate Qualification,0.19409492746097523
+Week 4,Logistic Regression,categorical__highest_education_HE Qualification,0.18602028950208202
+Week 4,Logistic Regression,categorical__region_South East Region,0.18436036517360652
+Week 4,Logistic Regression,numeric__interaction_records,0.1786439428135359
+Week 4,Logistic Regression,categorical__region_Ireland,0.17142286116135386
+Week 4,Logistic Regression,numeric__missingindicator_avg_CMA_score,0.169665122325086
+Week 4,Logistic Regression,numeric__num_of_prev_attempts,0.16510158311241444
+Week 4,Logistic Regression,categorical__highest_education_A Level or Equivalent,0.1558154087599353
+Week 4,Logistic Regression,categorical__age_band_0-35,0.1551482472616091
+Week 4,Logistic Regression,categorical__imd_band_80-90%,0.15368952542185965
+Week 4,Logistic Regression,categorical__region_South West Region,0.15312056372025748
+Week 4,Logistic Regression,categorical__region_South Region,0.13449957843356117
+Week 4,Logistic Regression,categorical__region_East Anglian Region,0.10549348884484104
+Week 4,Logistic Regression,numeric__missingindicator_assessment_score_mean,0.09990610723113386
+Week 4,Logistic Regression,numeric__total_clicks,0.09721232619100376
+Week 4,Logistic Regression,categorical__disability_Y,0.09562391193686177
+Week 4,Logistic Regression,categorical__age_band_55<=,0.09447630586965564
+Week 4,Logistic Regression,categorical__imd_band_60-70%,0.0920567093573257
+Week 4,Logistic Regression,categorical__disability_N,0.09084572413025872
+Week 4,Logistic Regression,categorical__imd_band_40-50%,0.08832669140765563
+Week 4,Logistic Regression,categorical__region_North Western Region,0.05669360811989062
+Week 4,Logistic Regression,categorical__age_band_35-55,0.05589375358535119
+Week 4,Logistic Regression,categorical__imd_band_70-80%,0.04844879092267666
+Week 4,Logistic Regression,categorical__region_Yorkshire Region,0.04832405864374345
+Week 4,Logistic Regression,categorical__imd_band_50-60%,0.027227235715492026
+Week 4,Logistic Regression,categorical__region_North Region,0.02303641847994852
+Week 4,Logistic Regression,categorical__region_East Midlands Region,0.017175628992363363
+Week 4,Logistic Regression,categorical__imd_band_30-40%,0.012738126663887541
+Week 4,Logistic Regression,categorical__region_London Region,0.005667415161694235
+Week 4,Logistic Regression,categorical__region_West Midlands Region,0.0019503037339606054
+Week 4,Random Forest,numeric__assessment_score_mean,0.13519600236617374
+Week 4,Random Forest,numeric__studied_credits,0.1188533799264961
+Week 4,Random Forest,numeric__avg_TMA_score,0.11651649131663888
+Week 4,Random Forest,numeric__missingindicator_avg_TMA_score,0.049785102763027715
+Week 4,Random Forest,numeric__submitted_assessment_count,0.04818619603559447
+Week 4,Random Forest,numeric__scored_assessment_count,0.03403574092760152
+Week 4,Random Forest,numeric__assessment_submission_rate,0.0315173102993081
+Week 4,Random Forest,numeric__assessment_record_count,0.029413911867670842
+Week 4,Random Forest,numeric__missingindicator_assessment_score_mean,0.027602788415345435
+Week 4,Random Forest,numeric__avg_CMA_score,0.025190357971271293
+Week 4,Random Forest,numeric__total_clicks,0.017756714675879078
+Week 4,Random Forest,numeric__active_days,0.017053658505296287
+Week 4,Random Forest,numeric__num_of_prev_attempts,0.016952634029514187
+Week 4,Random Forest,numeric__interaction_records,0.016558550231694048
+Week 4,Random Forest,categorical__highest_education_Lower Than A Level,0.01627688600892145
+Week 4,Random Forest,categorical__gender_M,0.015374903333924638
+Week 4,Random Forest,categorical__gender_F,0.015173852305010843
+Week 4,Random Forest,numeric__unique_learning_sites,0.01402031796513224
+Week 4,Random Forest,categorical__age_band_35-55,0.011528354848594482
+Week 4,Random Forest,categorical__age_band_0-35,0.011196879993816442
+Week 4,Random Forest,categorical__highest_education_A Level or Equivalent,0.010555486579714524
+Week 4,Random Forest,categorical__region_Scotland,0.009903417067483199
+Week 4,Random Forest,categorical__imd_band_20-30%,0.009458175152102864
+Week 4,Random Forest,categorical__imd_band_20-Oct,0.00945528759909284
+Week 4,Random Forest,categorical__imd_band_0-10%,0.009444482553825236
+Week 4,Random Forest,categorical__imd_band_30-40%,0.009372524214312518
+Week 4,Random Forest,categorical__region_East Anglian Region,0.009300620095350109
+Week 4,Random Forest,categorical__imd_band_40-50%,0.009030302405988037
+Week 4,Random Forest,categorical__region_London Region,0.008945813245278328
+Week 4,Random Forest,categorical__imd_band_60-70%,0.008749013435001169
+Week 4,Random Forest,categorical__imd_band_50-60%,0.008593777970797547
+Week 4,Random Forest,categorical__imd_band_70-80%,0.00836464246944795
+Week 4,Random Forest,categorical__region_South Region,0.00830401191355589
+Week 4,Random Forest,categorical__region_North Western Region,0.008260454347961688
+Week 4,Random Forest,categorical__region_West Midlands Region,0.008141974597719344
+Week 4,Random Forest,categorical__imd_band_80-90%,0.008133804479315075
+Week 4,Random Forest,categorical__region_South West Region,0.00797270528866672
+Week 4,Random Forest,categorical__highest_education_HE Qualification,0.007894410316619953
+Week 4,Random Forest,categorical__imd_band_90-100%,0.007448866459740932
+Week 4,Random Forest,categorical__region_East Midlands Region,0.007425963534974011
+Week 4,Random Forest,categorical__region_Wales,0.007338266949025928
+Week 4,Random Forest,categorical__region_South East Region,0.007149168639297382
+Week 4,Random Forest,categorical__region_Yorkshire Region,0.006829534927264381
+Week 4,Random Forest,categorical__disability_N,0.0064381079332223
+Week 4,Random Forest,categorical__disability_Y,0.006065971471219314
+Week 4,Random Forest,categorical__region_North Region,0.005517355621171815
+Week 4,Random Forest,numeric__missingindicator_avg_CMA_score,0.005511973081098904
+Week 4,Random Forest,categorical__region_Ireland,0.004843697976070048
+Week 4,Random Forest,categorical__imd_band_Unknown,0.004225039347092623
+Week 4,Random Forest,categorical__highest_education_No Formal quals,0.0014882110731677333
+Week 4,Random Forest,categorical__highest_education_Post Graduate Qualification,0.0010691037607293515
+Week 4,Random Forest,categorical__age_band_55<=,0.0005778017067804191
+Week 4,XGBoost,numeric__missingindicator_avg_TMA_score,0.39521682262420654
+Week 4,XGBoost,numeric__assessment_submission_rate,0.17579828202724457
+Week 4,XGBoost,numeric__studied_credits,0.051528219133615494
+Week 4,XGBoost,numeric__submitted_assessment_count,0.043007802218198776
+Week 4,XGBoost,numeric__assessment_score_mean,0.030524438247084618
+Week 4,XGBoost,numeric__avg_TMA_score,0.019533595070242882
+Week 4,XGBoost,categorical__highest_education_Lower Than A Level,0.018833668902516365
+Week 4,XGBoost,numeric__scored_assessment_count,0.017369819805026054
+Week 4,XGBoost,numeric__avg_CMA_score,0.013810708187520504
+Week 4,XGBoost,numeric__missingindicator_assessment_score_mean,0.012301955372095108
+Week 4,XGBoost,categorical__gender_M,0.012032261118292809
+Week 4,XGBoost,numeric__num_of_prev_attempts,0.01161168608814478
+Week 4,XGBoost,categorical__gender_F,0.01025474350899458
+Week 4,XGBoost,categorical__imd_band_0-10%,0.009986859746277332
+Week 4,XGBoost,numeric__active_days,0.008562490344047546
+Week 4,XGBoost,numeric__total_clicks,0.008407775312662125
+Week 4,XGBoost,categorical__imd_band_Unknown,0.008294478990137577
+Week 4,XGBoost,numeric__assessment_record_count,0.007848038338124752
+Week 4,XGBoost,categorical__imd_band_20-Oct,0.006953474599868059
+Week 4,XGBoost,numeric__interaction_records,0.006779621355235577
+Week 4,XGBoost,categorical__disability_N,0.006667933892458677
+Week 4,XGBoost,categorical__imd_band_90-100%,0.006108853500336409
+Week 4,XGBoost,numeric__missingindicator_avg_CMA_score,0.005788663402199745
+Week 4,XGBoost,categorical__imd_band_20-30%,0.005675114691257477
+Week 4,XGBoost,categorical__age_band_35-55,0.0055614798329770565
+Week 4,XGBoost,categorical__region_North Western Region,0.005367129109799862
+Week 4,XGBoost,categorical__region_Scotland,0.005204159300774336
+Week 4,XGBoost,categorical__region_South West Region,0.004635570105165243
+Week 4,XGBoost,categorical__age_band_0-35,0.004635513294488192
+Week 4,XGBoost,categorical__disability_Y,0.004541598726063967
+Week 4,XGBoost,categorical__region_Wales,0.004384629428386688
+Week 4,XGBoost,categorical__imd_band_80-90%,0.0042633782140910625
+Week 4,XGBoost,numeric__unique_learning_sites,0.0042001111432909966
+Week 4,XGBoost,categorical__highest_education_No Formal quals,0.004035398829728365
+Week 4,XGBoost,categorical__region_South Region,0.0039437455125153065
+Week 4,XGBoost,categorical__region_North Region,0.0038232954684644938
+Week 4,XGBoost,categorical__region_East Anglian Region,0.003780885599553585
+Week 4,XGBoost,categorical__region_London Region,0.0037701865658164024
+Week 4,XGBoost,categorical__imd_band_70-80%,0.00369329284876585
+Week 4,XGBoost,categorical__highest_education_HE Qualification,0.003652358427643776
+Week 4,XGBoost,categorical__region_Ireland,0.0035329849924892187
+Week 4,XGBoost,categorical__region_South East Region,0.0035253320820629597
+Week 4,XGBoost,categorical__imd_band_50-60%,0.0033600677270442247
+Week 4,XGBoost,categorical__highest_education_A Level or Equivalent,0.0033238676842302084
+Week 4,XGBoost,categorical__imd_band_60-70%,0.0032286171335726976
+Week 4,XGBoost,categorical__imd_band_30-40%,0.003182898508384824
+Week 4,XGBoost,categorical__region_West Midlands Region,0.003166457172483206
+Week 4,XGBoost,categorical__imd_band_40-50%,0.003142076777294278
+Week 4,XGBoost,categorical__region_East Midlands Region,0.0030311583541333675
+Week 4,XGBoost,categorical__region_Yorkshire Region,0.0029611459467560053
+Week 4,XGBoost,categorical__highest_education_Post Graduate Qualification,0.002834007376804948
+Week 4,XGBoost,categorical__age_band_55<=,0.002321313600987196
+Week 6,Logistic Regression,numeric__scored_assessment_count,0.8247752469656232
+Week 6,Logistic Regression,numeric__avg_TMA_score,0.6105303570316392
+Week 6,Logistic Regression,numeric__assessment_record_count,0.5621433781763406
+Week 6,Logistic Regression,numeric__assessment_submission_rate,0.4924505986762406
+Week 6,Logistic Regression,numeric__studied_credits,0.4138486066549391
+Week 6,Logistic Regression,categorical__imd_band_Unknown,0.40371471253849084
+Week 6,Logistic Regression,numeric__missingindicator_avg_TMA_score,0.38851230875047205
+Week 6,Logistic Regression,numeric__avg_CMA_score,0.38707236389074445
+Week 6,Logistic Regression,categorical__imd_band_0-10%,0.3486543624198019
+Week 6,Logistic Regression,categorical__highest_education_No Formal quals,0.30572560713552577
+Week 6,Logistic Regression,numeric__active_days,0.2501222680571535
+Week 6,Logistic Regression,numeric__unique_learning_sites,0.2355962544991971
+Week 6,Logistic Regression,categorical__highest_education_Lower Than A Level,0.23498320639407733
+Week 6,Logistic Regression,categorical__imd_band_20-Oct,0.2340293598005428
+Week 6,Logistic Regression,categorical__imd_band_90-100%,0.23241374979358972
+Week 6,Logistic Regression,categorical__imd_band_20-30%,0.22412589983316977
+Week 6,Logistic Regression,categorical__gender_M,0.22038893922149236
+Week 6,Logistic Regression,categorical__region_Wales,0.22009549834052952
+Week 6,Logistic Regression,categorical__region_Scotland,0.21885921104542136
+Week 6,Logistic Regression,categorical__gender_F,0.2156107514148971
+Week 6,Logistic Regression,numeric__assessment_score_mean,0.21532936326761398
+Week 6,Logistic Regression,numeric__submitted_assessment_count,0.196973955041946
+Week 6,Logistic Regression,categorical__highest_education_Post Graduate Qualification,0.19409492746097523
+Week 6,Logistic Regression,categorical__highest_education_HE Qualification,0.18602028950208202
+Week 6,Logistic Regression,categorical__region_South East Region,0.18436036517360652
+Week 6,Logistic Regression,numeric__interaction_records,0.1786439428135359
+Week 6,Logistic Regression,categorical__region_Ireland,0.17142286116135386
+Week 6,Logistic Regression,numeric__missingindicator_avg_CMA_score,0.169665122325086
+Week 6,Logistic Regression,numeric__num_of_prev_attempts,0.16510158311241444
+Week 6,Logistic Regression,categorical__highest_education_A Level or Equivalent,0.1558154087599353
+Week 6,Logistic Regression,categorical__age_band_0-35,0.1551482472616091
+Week 6,Logistic Regression,categorical__imd_band_80-90%,0.15368952542185965
+Week 6,Logistic Regression,categorical__region_South West Region,0.15312056372025748
+Week 6,Logistic Regression,categorical__region_South Region,0.13449957843356117
+Week 6,Logistic Regression,categorical__region_East Anglian Region,0.10549348884484104
+Week 6,Logistic Regression,numeric__missingindicator_assessment_score_mean,0.09990610723113386
+Week 6,Logistic Regression,numeric__total_clicks,0.09721232619100376
+Week 6,Logistic Regression,categorical__disability_Y,0.09562391193686177
+Week 6,Logistic Regression,categorical__age_band_55<=,0.09447630586965564
+Week 6,Logistic Regression,categorical__imd_band_60-70%,0.0920567093573257
+Week 6,Logistic Regression,categorical__disability_N,0.09084572413025872
+Week 6,Logistic Regression,categorical__imd_band_40-50%,0.08832669140765563
+Week 6,Logistic Regression,categorical__region_North Western Region,0.05669360811989062
+Week 6,Logistic Regression,categorical__age_band_35-55,0.05589375358535119
+Week 6,Logistic Regression,categorical__imd_band_70-80%,0.04844879092267666
+Week 6,Logistic Regression,categorical__region_Yorkshire Region,0.04832405864374345
+Week 6,Logistic Regression,categorical__imd_band_50-60%,0.027227235715492026
+Week 6,Logistic Regression,categorical__region_North Region,0.02303641847994852
+Week 6,Logistic Regression,categorical__region_East Midlands Region,0.017175628992363363
+Week 6,Logistic Regression,categorical__imd_band_30-40%,0.012738126663887541
+Week 6,Logistic Regression,categorical__region_London Region,0.005667415161694235
+Week 6,Logistic Regression,categorical__region_West Midlands Region,0.0019503037339606054
+Week 6,Random Forest,numeric__assessment_score_mean,0.13519600236617374
+Week 6,Random Forest,numeric__studied_credits,0.1188533799264961
+Week 6,Random Forest,numeric__avg_TMA_score,0.11651649131663888
+Week 6,Random Forest,numeric__missingindicator_avg_TMA_score,0.049785102763027715
+Week 6,Random Forest,numeric__submitted_assessment_count,0.04818619603559447
+Week 6,Random Forest,numeric__scored_assessment_count,0.03403574092760152
+Week 6,Random Forest,numeric__assessment_submission_rate,0.0315173102993081
+Week 6,Random Forest,numeric__assessment_record_count,0.029413911867670842
+Week 6,Random Forest,numeric__missingindicator_assessment_score_mean,0.027602788415345435
+Week 6,Random Forest,numeric__avg_CMA_score,0.025190357971271293
+Week 6,Random Forest,numeric__total_clicks,0.017756714675879078
+Week 6,Random Forest,numeric__active_days,0.017053658505296287
+Week 6,Random Forest,numeric__num_of_prev_attempts,0.016952634029514187
+Week 6,Random Forest,numeric__interaction_records,0.016558550231694048
+Week 6,Random Forest,categorical__highest_education_Lower Than A Level,0.01627688600892145
+Week 6,Random Forest,categorical__gender_M,0.015374903333924638
+Week 6,Random Forest,categorical__gender_F,0.015173852305010843
+Week 6,Random Forest,numeric__unique_learning_sites,0.01402031796513224
+Week 6,Random Forest,categorical__age_band_35-55,0.011528354848594482
+Week 6,Random Forest,categorical__age_band_0-35,0.011196879993816442
+Week 6,Random Forest,categorical__highest_education_A Level or Equivalent,0.010555486579714524
+Week 6,Random Forest,categorical__region_Scotland,0.009903417067483199
+Week 6,Random Forest,categorical__imd_band_20-30%,0.009458175152102864
+Week 6,Random Forest,categorical__imd_band_20-Oct,0.00945528759909284
+Week 6,Random Forest,categorical__imd_band_0-10%,0.009444482553825236
+Week 6,Random Forest,categorical__imd_band_30-40%,0.009372524214312518
+Week 6,Random Forest,categorical__region_East Anglian Region,0.009300620095350109
+Week 6,Random Forest,categorical__imd_band_40-50%,0.009030302405988037
+Week 6,Random Forest,categorical__region_London Region,0.008945813245278328
+Week 6,Random Forest,categorical__imd_band_60-70%,0.008749013435001169
+Week 6,Random Forest,categorical__imd_band_50-60%,0.008593777970797547
+Week 6,Random Forest,categorical__imd_band_70-80%,0.00836464246944795
+Week 6,Random Forest,categorical__region_South Region,0.00830401191355589
+Week 6,Random Forest,categorical__region_North Western Region,0.008260454347961688
+Week 6,Random Forest,categorical__region_West Midlands Region,0.008141974597719344
+Week 6,Random Forest,categorical__imd_band_80-90%,0.008133804479315075
+Week 6,Random Forest,categorical__region_South West Region,0.00797270528866672
+Week 6,Random Forest,categorical__highest_education_HE Qualification,0.007894410316619953
+Week 6,Random Forest,categorical__imd_band_90-100%,0.007448866459740932
+Week 6,Random Forest,categorical__region_East Midlands Region,0.007425963534974011
+Week 6,Random Forest,categorical__region_Wales,0.007338266949025928
+Week 6,Random Forest,categorical__region_South East Region,0.007149168639297382
+Week 6,Random Forest,categorical__region_Yorkshire Region,0.006829534927264381
+Week 6,Random Forest,categorical__disability_N,0.0064381079332223
+Week 6,Random Forest,categorical__disability_Y,0.006065971471219314
+Week 6,Random Forest,categorical__region_North Region,0.005517355621171815
+Week 6,Random Forest,numeric__missingindicator_avg_CMA_score,0.005511973081098904
+Week 6,Random Forest,categorical__region_Ireland,0.004843697976070048
+Week 6,Random Forest,categorical__imd_band_Unknown,0.004225039347092623
+Week 6,Random Forest,categorical__highest_education_No Formal quals,0.0014882110731677333
+Week 6,Random Forest,categorical__highest_education_Post Graduate Qualification,0.0010691037607293515
+Week 6,Random Forest,categorical__age_band_55<=,0.0005778017067804191
+Week 6,XGBoost,numeric__missingindicator_avg_TMA_score,0.39521682262420654
+Week 6,XGBoost,numeric__assessment_submission_rate,0.17579828202724457
+Week 6,XGBoost,numeric__studied_credits,0.051528219133615494
+Week 6,XGBoost,numeric__submitted_assessment_count,0.043007802218198776
+Week 6,XGBoost,numeric__assessment_score_mean,0.030524438247084618
+Week 6,XGBoost,numeric__avg_TMA_score,0.019533595070242882
+Week 6,XGBoost,categorical__highest_education_Lower Than A Level,0.018833668902516365
+Week 6,XGBoost,numeric__scored_assessment_count,0.017369819805026054
+Week 6,XGBoost,numeric__avg_CMA_score,0.013810708187520504
+Week 6,XGBoost,numeric__missingindicator_assessment_score_mean,0.012301955372095108
+Week 6,XGBoost,categorical__gender_M,0.012032261118292809
+Week 6,XGBoost,numeric__num_of_prev_attempts,0.01161168608814478
+Week 6,XGBoost,categorical__gender_F,0.01025474350899458
+Week 6,XGBoost,categorical__imd_band_0-10%,0.009986859746277332
+Week 6,XGBoost,numeric__active_days,0.008562490344047546
+Week 6,XGBoost,numeric__total_clicks,0.008407775312662125
+Week 6,XGBoost,categorical__imd_band_Unknown,0.008294478990137577
+Week 6,XGBoost,numeric__assessment_record_count,0.007848038338124752
+Week 6,XGBoost,categorical__imd_band_20-Oct,0.006953474599868059
+Week 6,XGBoost,numeric__interaction_records,0.006779621355235577
+Week 6,XGBoost,categorical__disability_N,0.006667933892458677
+Week 6,XGBoost,categorical__imd_band_90-100%,0.006108853500336409
+Week 6,XGBoost,numeric__missingindicator_avg_CMA_score,0.005788663402199745
+Week 6,XGBoost,categorical__imd_band_20-30%,0.005675114691257477
+Week 6,XGBoost,categorical__age_band_35-55,0.0055614798329770565
+Week 6,XGBoost,categorical__region_North Western Region,0.005367129109799862
+Week 6,XGBoost,categorical__region_Scotland,0.005204159300774336
+Week 6,XGBoost,categorical__region_South West Region,0.004635570105165243
+Week 6,XGBoost,categorical__age_band_0-35,0.004635513294488192
+Week 6,XGBoost,categorical__disability_Y,0.004541598726063967
+Week 6,XGBoost,categorical__region_Wales,0.004384629428386688
+Week 6,XGBoost,categorical__imd_band_80-90%,0.0042633782140910625
+Week 6,XGBoost,numeric__unique_learning_sites,0.0042001111432909966
+Week 6,XGBoost,categorical__highest_education_No Formal quals,0.004035398829728365
+Week 6,XGBoost,categorical__region_South Region,0.0039437455125153065
+Week 6,XGBoost,categorical__region_North Region,0.0038232954684644938
+Week 6,XGBoost,categorical__region_East Anglian Region,0.003780885599553585
+Week 6,XGBoost,categorical__region_London Region,0.0037701865658164024
+Week 6,XGBoost,categorical__imd_band_70-80%,0.00369329284876585
+Week 6,XGBoost,categorical__highest_education_HE Qualification,0.003652358427643776
+Week 6,XGBoost,categorical__region_Ireland,0.0035329849924892187
+Week 6,XGBoost,categorical__region_South East Region,0.0035253320820629597
+Week 6,XGBoost,categorical__imd_band_50-60%,0.0033600677270442247
+Week 6,XGBoost,categorical__highest_education_A Level or Equivalent,0.0033238676842302084
+Week 6,XGBoost,categorical__imd_band_60-70%,0.0032286171335726976
+Week 6,XGBoost,categorical__imd_band_30-40%,0.003182898508384824
+Week 6,XGBoost,categorical__region_West Midlands Region,0.003166457172483206
+Week 6,XGBoost,categorical__imd_band_40-50%,0.003142076777294278
+Week 6,XGBoost,categorical__region_East Midlands Region,0.0030311583541333675
+Week 6,XGBoost,categorical__region_Yorkshire Region,0.0029611459467560053
+Week 6,XGBoost,categorical__highest_education_Post Graduate Qualification,0.002834007376804948
+Week 6,XGBoost,categorical__age_band_55<=,0.002321313600987196
